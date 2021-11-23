@@ -14,6 +14,7 @@
 ### Contacta conmigo:
 
 [<img align="left" alt="email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.20.0/icons/gmail.svg" />][email]
+[<img align="left" alt="email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.20.0/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -27,3 +28,4 @@
 
 [noguerad]: https://www.noguerad.es
 [email]: mailto:contacta@noguerad.es
+[linkedin]: https://www.linkedin.com/in/david-noguera-361a87ba/
