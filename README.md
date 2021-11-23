@@ -14,7 +14,8 @@
 ### Contacta conmigo:
 
 [<img align="left" alt="email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.20.0/icons/gmail.svg" />][email]
-[<img align="left" alt="email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.20.0/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.20.0/icons/linkedin.svg" />][telegram]
+[<img align="left" alt="email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.20.0/icons/telegram.svg" />][linkedin]
 
 <br />
 
@@ -29,3 +30,4 @@
 [noguerad]: http://www.noguerad.es
 [email]: mailto:contacta@noguerad.es
 [linkedin]: https://www.linkedin.com/in/david-noguera-361a87ba/
+[telegram]: http://t.me/noguerad
