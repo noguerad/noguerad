@@ -18,11 +18,11 @@
 <br />
 
 ### Lenguajes:
-[<img align="left" alt="email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.20.0/icons/gnubash.svg" />]
-[<img align="left" alt="email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.20.0/icons/python.svg" />]
-[<img align="left" alt="email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.20.0/icons/html5.svg" />]
-[<img align="left" alt="email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.20.0/icons/css3.svg" />]
-[<img align="left" alt="email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.20.0/icons/javascript.svg" />]
+<img align="left" alt="email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.20.0/icons/gnubash.svg" />
+<img align="left" alt="email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.20.0/icons/python.svg" />
+<img align="left" alt="email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.20.0/icons/html5.svg" />
+<img align="left" alt="email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.20.0/icons/css3.svg" />
+<img align="left" alt="email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.20.0/icons/javascript.svg" />
 <br />
 
 [noguerad]: https://www.noguerad.es
