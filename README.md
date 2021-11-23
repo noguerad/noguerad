@@ -8,7 +8,7 @@
 - 🤔 Meta 2020: Dominar python y las redes neuronales
 - 💬 Pregúntame sobre: dramas coreanos...
 - 📫 Como contactar conmigo: sigue bajando!
-- 😄 Pronouns: ...
+<!-- - 😄 Pronouns: ...-->
 - ⚡ Dato innecesario: me encantan los videojuegos con mis hijos
 
 ### Contacta conmigo:
