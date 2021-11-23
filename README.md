@@ -1,4 +1,4 @@
-### Hola, Bienvenido a mi página de github [noguerad] 👋
+### Hola, Bienvenido a mi página de github [website] 👋
 
 
 ### Sobre mi:
@@ -13,8 +13,13 @@
 
 ### Contacta conmigo:
 
+[<img align="left" alt="email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.20.0/icons/protonmail.svg" />][email]
 
 <br />
 
 ### Lenguajes:
 
+<br />
+
+[website]=https://www.noguerad.es
+[email]=mailto:contacta@noguerad.es
