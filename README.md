@@ -21,5 +21,5 @@
 
 <br />
 
-[website]=https://www.noguerad.es
-[email]=mailto:contacta@noguerad.es
+[website]: https://www.noguerad.es
+[email]: mailto:contacta@noguerad.es
