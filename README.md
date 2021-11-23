@@ -13,7 +13,7 @@
 
 ### Contacta conmigo:
 
-[<img align="left" alt="email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.20.0/icons/protonmail.svg" />][email]
+[<img align="left" alt="email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.20.0/icons/gmail.svg" />][email]
 
 <br />
 
