@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I love korean and chinese cultures.**
 
+- Implementing **GTP-3, DALL-E and GPT-4** to **Django and Nodejs websites and apps**.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/david-noguera-361a87ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-noguera-361a87ba" height="30" width="40" /></a>
