@@ -19,7 +19,7 @@
 flowchart TD
   A[Learn new stuff] --> B(Have fun)
   B(Have Fun) --> C{Improve}
-  C{Improve} --A[Learn new stuff]
+  C{Improve} --> A[Learn new stuff]
 ```
 
 <h3 align="left">Connect with me:</h3>
