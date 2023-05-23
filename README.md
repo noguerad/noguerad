@@ -17,7 +17,7 @@
 
 ```mermaid
 flowchart TD
-  A[Learn new stuff] --> B(Have fun)
+  A[fa:fa-graduation-cap Learn new stuff] --> B(Have fun)
   B(Have Fun) --> C{Improve}
   C{Improve} --> A[Learn new stuff]
 ```
