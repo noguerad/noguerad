@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I love korean and chinese cultures.**
 
-- Implementing **GTP-3, DALL-E and GPT-4** to **Django and Nodejs websites and apps**.
+- Implementing **GTP-3.5, Llama2, DALL-E and GPT-4** to **Django and Nodejs websites and apps**.
 
 ```mermaid
 flowchart TD
