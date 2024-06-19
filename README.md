@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A passionate full stack developer from Barcelona</h3>
 
-- 🔭 I’m currently working on **IT for a global company.**
+- 🔭 I’m currently working on **IT for a global company.** and **Director of digital projects** in a therapy botanical garden.
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **Kotlin**
 
 - 👯 I’m looking to collaborate on **interesting python projects.**
 
