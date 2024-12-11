@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **IT for a global company.** and **Director of digital projects** in a therapy botanical garden.
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **nodeJS**
 
 - 👯 I’m looking to collaborate on **interesting python projects.**
 
@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I love korean and chinese cultures.**
 
-- Implementing **GTP-3.5, Llama2, DALL-E and GPT-4** to **Django and Nodejs websites and apps**.
+- Implementing **GTP-4, Llama3.2, DALL-E and gptlike LLM** to **Django and Nodejs websites and apps**.
 
 ```mermaid
 flowchart TD
