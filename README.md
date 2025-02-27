@@ -15,8 +15,8 @@
 
 - Implementing **GTP-4, Llama3.2, DALL-E and gptlike LLM** to **Django and Nodejs websites and apps**.
 
-[!NOTE]
-Work with amazing people creates amazing projects
+> [!NOTE]
+> Work with amazing people creates amazing projects
 
 ```mermaid
 flowchart TD
